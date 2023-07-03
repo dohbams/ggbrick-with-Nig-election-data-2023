@@ -60,4 +60,4 @@ g <-  ggplot() +
 
 
 # Save the plot as PNG using Cairo
-ggsave('votes2.png', g, type = 'cairo', width = 15, height = 9, dpi = 1200)
+ggsave('vote.png', g, type = 'cairo', width = 15, height = 9, dpi = 1200)
