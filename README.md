@@ -6,4 +6,4 @@ This visualization seeks to dissect vote trends reported by the Independent Nati
 
 Based on data from [vanguardngr.com](https://www.vanguardngr.com/2023-presidential-election-results-by-states/), this visualization breaks down how Nigerian's reportedly voted among the top 4 political parties and 6 geopolitical zones.
 
-![](https://github.com/dohbams/ggbrick-with-Nig-election-data-2023/blob/main/viz/votes2.png)
+![](https://github.com/dohbams/ggbrick-with-Nig-election-data-2023/blob/main/viz/vote.png)
