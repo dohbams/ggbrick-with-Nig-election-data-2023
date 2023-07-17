@@ -8,6 +8,4 @@ Based on data from [vanguardngr.com](https://www.vanguardngr.com/2023-presidenti
 
 Tools used: R {ggbrick, tidyverse} | QGIS | PowerPoint.
 
-![](https://github.com/dohbams/ggbrick-with-Nig-election-data-2023/blob/main/viz/vote.png)
-
 ![](https://github.com/dohbams/ggbrick-with-Nig-election-data-2023/blob/main/viz/vote_2.png)
